@@ -1,4 +1,4 @@
-# Calculator Module
+# Python Calculator
 &nbsp;
 &nbsp;
 
